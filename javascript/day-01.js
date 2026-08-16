@@ -33,3 +33,5 @@ console.log(typeof isAdmin);
 const isLoggedIn = true;
 console.log("isLoggedIn:-",isLoggedIn);
 console.log(typeof isLoggedIn);
+let city;
+console.log("City:-",typeof city);
