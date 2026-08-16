@@ -1,7 +1,13 @@
-let score = 100;
-score += 20;
-score -= 30;
-score *= 2;
-score /= 5;
+const name = "Chandan";
+const age = 22;
+const college = "NSHM Knowledge Campus";
+const branch = "CSE";
+const marks = 85.5;
+const cgpa = 8.5;
+console.log("Data Types:");
 
-console.log(score);
+console.log("Name:", name);
+console.log(typeof name);
+
+console.log("Age:", age);
+console.log(typeof age);
