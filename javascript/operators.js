@@ -11,3 +11,6 @@ console.log(typeof name);
 
 console.log("Age:", age);
 console.log(typeof age);
+
+console.log("College:", college);
+console.log(typeof college);
